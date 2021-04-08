@@ -1,0 +1,21 @@
+{
+    "name": "Cute",
+    "displayName": "Yogurt Theme",
+    "description": "A beatiful dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yogurt Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Yogurt Theme-color-theme.json"
+            }
+        ]
+    }
+}
